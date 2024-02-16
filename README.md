@@ -6,3 +6,5 @@ In this tutorial I'm going to implement ViT (Vision Transformer) from scratch us
 ---
 <h1> Self-Attention</h1>
 ---
+<h2> Layer Normalization vs Batch Normalization </h2>
+---
